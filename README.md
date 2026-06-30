@@ -1,4 +1,4 @@
-# 🔐 VAULT — Gerenciador de Senhas
+#  VAULT — Gerenciador de Senhas
 
 > *Gerencie suas senhas com segurança, direto pelo terminal.*
 
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - 🔑 **Senha mestra** — acesso protegido com hash SHA-256
 - ➕ **Cadastrar senhas** — salva serviço, usuário e senha
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Como usar
+##  Como usar
 
 ### Pré-requisitos
 
@@ -46,11 +46,11 @@ Na primeira vez, o VAULT pede para criar uma **senha mestra**. Essa senha proteg
 
 ---
 
-## 🎮 Menu do programa
+##  Menu do programa
 
 ```
 ╔══════════════════════════════╗
-║  🔐 VAULT - Gerenciador      ║
+║    VAULT - Gerenciador      ║
 ╚══════════════════════════════╝
 
 [1] Cadastrar nova senha
@@ -63,7 +63,7 @@ Na primeira vez, o VAULT pede para criar uma **senha mestra**. Essa senha proteg
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 | Recurso | Uso |
 |--------|-----|
@@ -76,7 +76,7 @@ Feito com **Python puro** — zero dependências externas.
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 vault-password-manager/
@@ -87,11 +87,11 @@ vault-password-manager/
     └── master.json   # Hash da senha mestra
 ```
 
-> ⚠️ A pasta `data/` é criada automaticamente e está no `.gitignore` — suas senhas **nunca** vão para o GitHub.
+>  A pasta `data/` é criada automaticamente e está no `.gitignore` — suas senhas **nunca** vão para o GitHub.
 
 ---
 
-## 🔒 Segurança
+##  Segurança
 
 - Senha mestra armazenada como **hash SHA-256** — nunca em texto puro
 - Dados salvos **100% localmente** no seu computador
@@ -99,7 +99,7 @@ vault-password-manager/
 
 ---
 
-## 🗺️ Próximas melhorias
+##  Próximas melhorias
 
 - [ ] Migrar de JSON para SQLite
 - [ ] Criptografar o vault.json com Fernet
@@ -108,7 +108,7 @@ vault-password-manager/
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Feito por **Rafael Palumbo**
 
