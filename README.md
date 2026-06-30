@@ -11,13 +11,13 @@
 
 ##  Funcionalidades
 
-- 🔑 **Senha mestra** — acesso protegido com hash SHA-256
-- ➕ **Cadastrar senhas** — salva serviço, usuário e senha
-- 📋 **Listar serviços** — visualize tudo que está salvo
-- 🔍 **Buscar credenciais** — encontre qualquer serviço pelo nome
-- ⚡ **Gerar senha forte** — letras, números e símbolos aleatórios
-- 🗑️ **Excluir registro** — remove entradas com confirmação
-- 💾 **Armazenamento local em JSON** — seus dados ficam no seu computador
+-  **Senha mestra** — acesso protegido com hash SHA-256
+-  **Cadastrar senhas** — salva serviço, usuário e senha
+-  **Listar serviços** — visualize tudo que está salvo
+-  **Buscar credenciais** — encontre qualquer serviço pelo nome
+-  **Gerar senha forte** — letras, números e símbolos aleatórios
+-  **Excluir registro** — remove entradas com confirmação
+-  **Armazenamento local em JSON** — seus dados ficam no seu computador
 
 ---
 
